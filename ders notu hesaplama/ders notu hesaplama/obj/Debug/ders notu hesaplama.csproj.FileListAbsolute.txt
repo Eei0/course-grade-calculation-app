@@ -1,0 +1,10 @@
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\ders notu hesaplama\ders notu hesaplama\bin\Debug\ders notu hesaplama.exe.config
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\ders notu hesaplama\ders notu hesaplama\bin\Debug\ders notu hesaplama.exe
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\ders notu hesaplama\ders notu hesaplama\bin\Debug\ders notu hesaplama.pdb
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\ders notu hesaplama\ders notu hesaplama\obj\Debug\ders notu hesaplama.csproj.AssemblyReference.cache
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\ders notu hesaplama\ders notu hesaplama\obj\Debug\ders_notu_hesaplama.Form1.resources
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\ders notu hesaplama\ders notu hesaplama\obj\Debug\ders_notu_hesaplama.Properties.Resources.resources
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\ders notu hesaplama\ders notu hesaplama\obj\Debug\ders notu hesaplama.csproj.GenerateResource.cache
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\ders notu hesaplama\ders notu hesaplama\obj\Debug\ders notu hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\ders notu hesaplama\ders notu hesaplama\obj\Debug\ders notu hesaplama.exe
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\ders notu hesaplama\ders notu hesaplama\obj\Debug\ders notu hesaplama.pdb
